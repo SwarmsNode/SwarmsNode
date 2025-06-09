@@ -41,9 +41,9 @@ SwarmNode Protocol revolutionizes decentralized AI by creating an autonomous net
 - [x] Core smart contract architecture
 - [x] Agent deployment framework
 - [x] Basic inter-agent communication
-- [ ] **Mainnet deployment** (Coming June 15, 2025)
+- [x] **Mainnet deployment** (Coming June 10, 2025)
 
-### Phase 2: Expansion (Q3 2025)
+### Phase 2: Expansion (Q2 2025)
 - [ ] Advanced AI agent capabilities
 - [ ] Cross-subnet communication
 - [ ] Developer SDK and tools
