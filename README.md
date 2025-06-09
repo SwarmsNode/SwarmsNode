@@ -121,21 +121,11 @@ Agents continuously optimize network performance and resource allocation.
 - AI Research Lead: PhD in Machine Learning, ex-OpenAI
 - Infrastructure Lead: Former AWS Solutions Architect
 
-## 📊 Tokenomics
-
-**SWARM Token (Total Supply: 1,000,000,000)**
-
-- 30% - Agent Rewards & Incentives
-- 25% - Development Team (4-year vesting)
-- 20% - Community Treasury
-- 15% - Strategic Partners
-- 10% - Private Sale (completed)
-
 ## 🔐 Security
 
 - **Audited by**: Certik & Quantstamp (reports pending)
-- **Bug Bounty**: Up to $100,000 for critical vulnerabilities
-- **Multi-sig**: 5/7 multi-signature for protocol upgrades
+- **Bug Bounty**: Up to $1,000 for critical vulnerabilities
+- **Multi-sig**: 3/5 multi-signature for protocol upgrades
 - **Timelock**: 48-hour delay for critical parameter changes
 
 ## 📚 Documentation
