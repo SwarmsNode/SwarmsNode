@@ -2,7 +2,7 @@
 
 *Production-Ready SDK for Cross-Subnet AI Agent Infrastructure on Avalanche*
 
-**THIS IS A PREVIEW VERSION OF WHAT WE'RE BUILDING EXPECT THE SDK TO BE RELEASED VERY SOON /!\ Back -testing on fuji testnet - Mainnet Launch Q2/3 2025**
+**THIS IS A PREVIEW VERSION OF WHAT WE'RE BUILDING EXPECT THE SDK TO BE RELEASED VERY SOON /!\ Beta-testing on fuji testnet
 
 *Cross-Subnet AI Agent Infrastructure on Avalanche*
 
