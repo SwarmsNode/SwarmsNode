@@ -1,4 +1,4 @@
-# SwarmNode Protocol
+# Swarms Node Protocol
 
 *Production-Ready SDK for Cross-Subnet AI Agent Infrastructure on Avalanche*
 
