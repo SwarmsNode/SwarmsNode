@@ -1,5 +1,9 @@
 # SwarmNode Protocol
 
+*Production-Ready SDK for Cross-Subnet AI Agent Infrastructure on Avalanche*
+
+**THIS IS A PREVIEW VERSION OF WHAT WE'RE BUILDING EXPECT THE SDK TO BE RELEASED VERY SOON /!\ Back -testing on fuji testnet - Mainnet Launch Q2/3 2025**
+
 *Cross-Subnet AI Agent Infrastructure on Avalanche*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -204,4 +208,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 **SwarmNode Protocol**: Building the first cross-subnet AI agent infrastructure on Avalanche.
+
 
